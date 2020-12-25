@@ -8,9 +8,9 @@ Following queries are conducted.<br/>
 3. query to find total runsscored by the batsman for each team he played. (Assume
    all players are batsman).<br/>
 4. query to get match_Id, Man of the match and runs scored by man of the match.<br/>
-5.query to get list of team and boundary scored when the team won the toss and
+5. query to get list of team and boundary scored when the team won the toss and
   decided to bat first. (boundary includes 4s and 6s).<br/>
-6.query to return a report for Venue and City and average runs scored per match
+6. query to return a report for Venue and City and average runs scored per match
   in powerplay in 1st inning. [powerplay means 1 to 6th Over including 6th Over]<br/>
   
 <b>In section3.py file.</b><br/>
