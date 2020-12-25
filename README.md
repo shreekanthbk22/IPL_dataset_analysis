@@ -17,7 +17,7 @@ Following queries are conducted.<br/>
 * First we created database in local MySQL database.<br/>
 * imported the csv into tables.<br/>
 *In source code created a class Database that has the following features:<br/>
- 1. Constructor to initialise dB connection and other variables.<br/>
- 2. Methods implemented to return resultset for first two queries listed above.<br/>
- 3. The resultset should be returned as a json object.<br/>
+   1. Constructor to initialise dB connection and other variables.<br/>
+   2. Methods implemented to return resultset for first two queries listed above.<br/>
+   3. The resultset returned as a json object.<br/>
  
