@@ -1,6 +1,10 @@
 # IPL_dataset_analysis
 data analysis, querying and programming of the IPL dataset.<br/>
 
+Language used: Python<br/>
+Environment : Databricks, VScode.<br/>
+Database : MySQL<br/>
+
 <b>In file analysis.ipynb</b>: 
 Following queries are conducted.<br/>
 1. query to get the dismissal types with count.<br/>
